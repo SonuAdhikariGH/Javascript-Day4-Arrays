@@ -1,0 +1,1 @@
+// Take let sentence = "I love JavaScript";
